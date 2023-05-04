@@ -8,7 +8,7 @@ How to use:
 
 Show FM order to yourself
 
-/FM Order
+/FM order
 
 ----------------------------------
 
