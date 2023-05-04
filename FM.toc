@@ -1,9 +1,0 @@
-## Interface: 30300
-## Title: FocusMagic
-## Notes: An addon for automatically displaying the FM order for mages.
-## Version: v1.0
-## Author: Melon
-## SavedVariablesPerCharacter: FM_Save
-## OptionalDeps:
-## Dependencies:
-FM.xml
